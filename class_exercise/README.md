@@ -1,8 +1,11 @@
    the codes contains answer for java class exercise questions 
 
 1. Create a Java class named Student with 
+
 a. With field /class variables 
+
 b. Create constructor 
+
 c. create setters and getter method (use this keyword)
 d. create a method to calculate total salary given any number of incomes 
 e. method overloading 
@@ -47,15 +50,21 @@ has the following three class variables:
 ● title, which is a String representing the title of the movie
 ● studio, which is a String representing the studio that made the movie
 ● rating, which is a String representing the rating of the movie (i.e. PG-13, R, etc)
+
+
 a) Write a constructor for the class Movie, which takes a String representing the title of the
 movie, a String representing the studio, and a String representing the rating as its
 arguments, and sets the respective class variables to these values.
+
 b) Write a second constructor for the class Movie, which takes a String representing the title
  of the movie and a String representing the studio as its arguments, and sets the respective
 class variables to these values, while the class variable ratingis set to "PG".
+
 c) Write a method getPG, which takes an array of base type Movies its argument, and
  returns a new array of only those movies in the input array with a rating of "PG". You may
 Assume the input array is full of Movie instances. The returned array need not be full.
+
+
 d) Write a piece of code that creates an instance of the class Movie with the title 
 
                         Exercise 2
