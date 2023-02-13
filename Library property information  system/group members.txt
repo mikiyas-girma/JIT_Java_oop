@@ -1,7 +1,8 @@
       !!note!!
       the default username and password for both 
-      the admin and user is username=1 and password=1
-      username="1"  and password="1"
+      the admin and user is 
+      username=1 and 
+      password=1
     
     
     
